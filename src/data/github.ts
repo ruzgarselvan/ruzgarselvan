@@ -15,14 +15,23 @@ export const githubRepos: GitHubRepo[] = [
     url: "https://github.com/ruzgarselvan/Grup-Yorum-Antisansur",
     language: "TypeScript",
     stars: 0,
-    updated: "2025-09-20T09:24:12Z",
+    updated: "2025-09-20T11:35:45Z",
   },
   {
     name: "ruzgarselvan",
-    description: "Görüntülediğiniz sitenin açık kaynak kodları.",
+    description: "Next.js based kişisel portfolyo ve blog sitesi.",
     url: "https://github.com/ruzgarselvan/ruzgarselvan",
-    language: "Typescript",
+    language: "TypeScript",
     stars: 0,
-    updated: "2025-09-20T12:43:47Z",
+    updated: "2025-09-21T19:54:31Z",
+  },
+  {
+    name: "uynu",
+    description:
+      "Next.js based uyku için çeşitli frekansları dinleyebileceğiniz ve 4-7-8 metoduyla nefes egzersizi yapabileceğiniz bir site.",
+    url: "https://github.com/ruzgarselvan/uynu",
+    language: "TypeScript",
+    stars: 0,
+    updated: "2025-09-21T21:44:50Z",
   },
 ];
