@@ -10,7 +10,7 @@ export const metadata: Metadata = {
 export default function PortfolioPage() {
   return (
     <div>
-      <PageHeader title="Portföy" />
+      <PageHeader title="Portföy" backHref="/" />
 
       <div className="toolbar sticky">
         <div className="chips">

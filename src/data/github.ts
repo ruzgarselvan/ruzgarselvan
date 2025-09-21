@@ -21,7 +21,7 @@ export const githubRepos: GitHubRepo[] = [
     name: "ruzgarselvan",
     description: "Görüntülediğiniz sitenin açık kaynak kodları.",
     url: "https://github.com/ruzgarselvan/ruzgarselvan",
-    language: "HTML",
+    language: "Typescript",
     stars: 0,
     updated: "2025-09-20T12:43:47Z",
   },

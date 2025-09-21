@@ -2,23 +2,6 @@
 
 Kişisel portföy, blog ve iletişim sayfalarını barındıran Next.js uygulaması.
 
-### Geliştirme
-
-```bash
-npm install
-npm run dev
-```
-
-Uygulama varsayılan olarak `http://localhost:3000` adresinde çalışır.
-
-### Üretim
-
-```bash
-npm run build
-npm run start
-```
-
-`next.config.ts` içinde `output: "export"` tanımlı olduğu için `npm run build` çıktıyı otomatik olarak `out/` klasörüne statik dosya olarak yazar.
 
 ### Lisans
 
